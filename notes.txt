@@ -1,0 +1,6 @@
+pip freeze: lista tudo que foi instalado
+
+pip freeze > requirements.txt  --> exporta tudo que foi instalado no projeto
+
+flask run executa a aplicação
+
